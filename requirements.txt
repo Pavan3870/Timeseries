@@ -1,0 +1,17 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+seaborn
+xgboost
+lightgbm
+catboost
+statsmodels
+tensorflow
+keras
+torch
+scipy
+jupyterlab
+notebook
+ipython
+datetime
